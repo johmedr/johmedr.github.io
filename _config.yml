@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Johan Medrano"
+  name             : "Dr. Johan Medrano"
   avatar           : "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gXiX6XwAAAAJ&citpid=3"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "Postdoctoral research fellow at the FIL Methods group"
   location         : "London, UK"
-  employer         :
+  employer         : "The Wellcome Centre for Human Neuroimaging"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=gXiX6XwAAAAJ"
-  email            :
+  email            : "johan [dot] medrano [at] ucl.ac.uk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "johmedr"
+  github           : "https://github.com/johmedr"
   google_plus      :
   keybase          :
   instagram        :
@@ -175,49 +175,41 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  publications:
     output: true
     permalink: /:collection/:path/
-  publications:
+  teaching:
     output: true
     permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
 defaults:
   # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
   # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
+  # - scope:
+  #     path: ""
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  
   # _publications
   - scope:
       path: ""
@@ -236,14 +228,23 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  # _talks
+  # _teaching
   - scope:
       path: ""
-      type: talks
+      type: teaching
     values:
-      layout: talk
+      layout: single
       author_profile: true
       share: true
+      comments: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 # Sass/SCSS
 sass:
