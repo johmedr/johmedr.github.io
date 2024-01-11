@@ -84,10 +84,10 @@ author:
   avatar           : "https://scholar.googleusercontent.com/citations?view_op=view_photo&user=gXiX6XwAAAAJ&citpid=3"
   bio              : "Postdoctoral research fellow at the FIL Methods group"
   location         : "London, UK"
-  employer         : "The Wellcome Centre for Human Neuroimaging"
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  employer         : 
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=gXiX6XwAAAAJ"
-  email            : "johan [dot] medrano [at] ucl.ac.uk"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -202,14 +202,13 @@ defaults:
   #     comments: true
   #     share: true
   #     related: true
-  # _pages
-  # - scope:
-  #     path: ""
-  #     type: pages
-  #   values:
-  #     layout: single
-  #     author_profile: true
-  
+  _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true
   # _publications
   - scope:
       path: ""
