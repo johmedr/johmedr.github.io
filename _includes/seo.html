@@ -116,12 +116,47 @@
       "@context" : "http://schema.org",
       "@type" : "{% if site.social.type %}{{ site.social.type }}{% else %}Person{% endif %}",
       "name" : "{{ site.social.name | default: site.name }}",
-      {% if site.og_image %}{{"image" : "site.og_image",}}{% endif %}
+      {% if site.og_image %}"image" : "{{site.og_image}}",{% endif %}
       "url" : {{ seo_url | jsonify }},
       "sameAs" : {{ site.social.links | jsonify }}
     }
   </script>
 {% endif %}
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 0,
+      "name": "Johan Medrano",
+      "item": "https://www.johanmedrano.xyz/"
+    },{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Publications",
+      "item": "https://www.johanmedrano.xyz/publications/"
+    }]
+  }
+</script>
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [{
+      "@type": "ListItem",
+      "position": 0,
+      "name": "Johan Medrano",
+      "item": "https://www.johanmedrano.xyz/"
+    },{
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Teaching",
+      "item": "https://www.johanmedrano.xyz/teaching/"
+    }]
+  }
+</script>
 
 {% if site.google_site_verification %}
   <meta name="google-site-verification" content="{{ site.google_site_verification }}" />
