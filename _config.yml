@@ -7,15 +7,15 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Johan Medrano"
+title                    : "Johan Medrano · Researcher"
 title_separator          : "-"
-name                     : &name "Johan Medrano"
-description              : &description "Postdoc - Methods group at the Wellcome Centre for Human Neuroimaging"
+name                     : &name "Johan Medrano · Researcher"
+description              : &description "I am a postdoctoral research fellow in the Methods group at the Functional Imaging Laboratory at UCL Queen Square Institute of Neurology, working with Dr. Peter Zeidman, Prof. Karl Friston and the Memory and Space team led by Prof. Eleanor Maguire."
 url                      : https://www.johanmedrano.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "johmedr.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+teaser                   : "1703861727692.jpeg" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
