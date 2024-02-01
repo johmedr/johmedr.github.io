@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "About Johan Medrano: "
+excerpt: "I am a postdoctoral research fellow in the Methods group at the Functional Imaging Laboratory at UCL Queen Square Institute of Neurology, working with Dr. Peter Zeidman, Prof. Karl Friston and the Memory and Space team led by Prof. Eleanor Maguire."
 author_profile: true
 redirect_from: 
   - /about/
