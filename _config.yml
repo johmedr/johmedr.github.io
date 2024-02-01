@@ -8,7 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Johan Medrano · Researcher"
-title_separator          : "-"
+title_separator          : "·"
 name                     : &name "Johan Medrano"
 description              : &description "I am a postdoctoral research fellow in the Methods group at the Functional Imaging Laboratory at UCL Queen Square Institute of Neurology, working with Dr. Peter Zeidman, Prof. Karl Friston and the Memory and Space team led by Prof. Eleanor Maguire."
 url                      : https://www.johanmedrano.xyz # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"

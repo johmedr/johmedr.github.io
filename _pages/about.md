@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Johan Medrano · Researcher"
+excerpt: "About Johan Medrano: "
 author_profile: true
 redirect_from: 
   - /about/
