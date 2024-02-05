@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "About"
-excerpt: "I am a postdoctoral research fellow in the Methods group at the Functional Imaging Laboratory at UCL Queen Square Institute of Neurology, working with Dr. Peter Zeidman, Prof. Karl Friston and the Memory and Space team led by Prof. Eleanor Maguire."
+excerpt: "Research scientist developping new statistical methods to help neuroscientists answer hypotheses from their neurorimaging data."
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,10 +13,10 @@ I am a postdoctoral research fellow in the Methods group at the [Functional Imag
 My interests include Bayesian statistics, causal inference, dynamical systems, adaptive behavior, specifically (but non-exhaustively): 
  - how to relate cortical computations to the updates of internal beliefs or of their precision
  - how to link these updates to behavioral responses or to changes in the experimental setting,
- - how to leverage foundation models to analyse the rich experimental content in naturalistic neuroimaging
+ - how to leverage foundation models to analyse the rich experimental content in naturalistic neuroimaging.
+ 
 
 ## Teaching
-
 I teach neuroimaging methods during the bi-annual [SPM Courses](https://www.fil.ion.ucl.ac.uk/spm/course/london/) in London. 
 
 I am also involved in the Dynamic Causal Modelling workshop within the MSc Advanced Neuroimaging program at UCL.
