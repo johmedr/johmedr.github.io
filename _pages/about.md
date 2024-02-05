@@ -14,6 +14,12 @@ My interests include Bayesian statistics, causal inference, dynamical systems, a
  - how to relate cortical computations to the updates of internal beliefs or of their precision
  - how to link these updates to behavioral responses or to changes in the experimental setting,
  - how to leverage foundation models to analyse the rich experimental content in naturalistic neuroimaging
+
+## Teaching
+
+I teach neuroimaging methods during the bi-annual [SPM Courses](https://www.fil.ion.ucl.ac.uk/spm/course/london/) in London. 
+
+I am also involved in the Dynamic Causal Modelling workshop within the MSc Advanced Neuroimaging program at UCL.
  
 ## Training
 I did my PhD in the [Interactive Digital Human team](https://www.lirmm.fr/teams-en/idh-en/) at the [LIRMM](https://www.lirmm.fr/), under [Dr. Sofiane Ramdani](https://scholar.google.com/citations?user=sf56cFwAAAAJ) and [Prof. Abderrahmane Kheddar](https://scholar.google.com/citations?user=yd4xmlcAAAAJ). I received my MSc in Engineering from [INSA Toulouse](https://www.insa-toulouse.fr/en/), with a focus on Computer Science for Critical Systems. 
