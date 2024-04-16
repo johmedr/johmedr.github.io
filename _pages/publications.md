@@ -18,15 +18,15 @@ Medrano, J., et al. <br>
 
 **Assessing Time Series Correlation Significance: A Parametric Approach with Application to Physiological Signals.** <br>
 Medrano, J., Kheddar, A., Ramdani, S. <br>
-*Biomedical Signal Processing and Control (2024)* [DOI: 10.1016/j.bspc.2024.106235](https://doi.org/10.1016/j.bspc.2024.106235).
+*Biomedical Signal Processing and Control (2024)* [DOI: 10.1016/j.bspc.2024.106235](https://doi.org/10.1016/j.bspc.2024.106235). [code: [Python](https://github.com/johmedr/corrts)]
 
 **Linking fast and slow: the case for generative models.** <br>
 Medrano, J., Friston, K., Zeidman, P. <br>
-*Network Neuroscience (2023)* [DOI: 10.1162/netn_a_00343](https://doi.org/10.1162/netn_a_00343).
+*Network Neuroscience (2023)* [DOI: 10.1162/netn_a_00343](https://doi.org/10.1162/netn_a_00343). 
 
 **Radius selection using kernel density estimation for the computation of nonlinear measures.**<br>
 Medrano, J., Kheddar, A., Lesne, A., Ramdani, S. <br>
-*Chaos: An Interdisciplinary Journal of Nonlinear Science (2021).* [DOI: 10.1063/5.0055797](https://doi.org/10.1063/5.0055797).
+*Chaos: An Interdisciplinary Journal of Nonlinear Science (2021).* [DOI: 10.1063/5.0055797](https://doi.org/10.1063/5.0055797) [code: [Python](https://github.com/johmedr/pykeos), [Matlab](https://github.com/johmedr/radsel)]
 
 **Enabling Machine Learning Across Heterogeneous Sensor Networks with Graph Autoencoders.** <br>
 Medrano, J. and Lin, F.J. <br>
