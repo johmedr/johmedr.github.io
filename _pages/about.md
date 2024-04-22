@@ -23,7 +23,7 @@ I teach neuroimaging methods during the bi-annual [SPM Courses](https://www.fil.
 I am also involved in the Dynamic Causal Modelling workshop within the MSc Advanced Neuroimaging program at UCL.
  
 ## Training
-I did my PhD in the [Interactive Digital Human team](https://www.lirmm.fr/teams-en/idh-en/) at the [LIRMM](https://www.lirmm.fr/), under [Dr. Sofiane Ramdani](https://scholar.google.com/citations?user=sf56cFwAAAAJ) and [Prof. Abderrahmane Kheddar](https://scholar.google.com/citations?user=yd4xmlcAAAAJ). I received my MSc in Engineering from [INSA Toulouse](https://www.insa-toulouse.fr/en/), with a focus on Computer Science for Critical Systems. 
+I did my PhD in the [Interactive Digital Human team](https://www.lirmm.fr/teams-en/idh-en/) at the [LIRMM](https://www.lirmm.fr/), under [Dr. Sofiane Ramdani](https://scholar.google.com/citations?user=sf56cFwAAAAJ) and [Prof. Abderrahmane Kheddar](https://scholar.google.com/citations?user=yd4xmlcAAAAJ). I received my MSc (*Diplôme d'Ingénieur*) in Control Engineering and Electronics from [INSA Toulouse](https://www.insa-toulouse.fr/en/). 
 
 ## Contact
 You can reach me at `johan{dot}medrano{at}ucl.ac.uk`
