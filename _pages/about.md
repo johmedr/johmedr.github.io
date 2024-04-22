@@ -13,7 +13,7 @@ I am a postdoctoral research fellow at the [Functional Imaging Laboratory](fil.i
 My long-term goal is to improve our ability to explain complex biological phenomenas. This entails: 
 
   * extending dynamic causal modelling, a Bayesian framework for modelling dynamical systems, to new experimental paradigms (e.g., naturalistic experiments), new imaging modalities, and new biophysical systems,  
-  * improving our understanding of biophysical dynamics under an information-theoretic perspective, using synergetics and the free-energy principle as guiding principles to explain self-organisation, agency, and adaptation, 
+  * improving our understanding of biophysical dynamics under an information-theoretic perspective, using synergetics and the free-energy principle as guiding principles to inspect self-organisation, agency, and adaptation, 
   * developping a rigorous methodology to connect the dots between different physical scales and understand how physical coupling and individual dynamics give rise to the measured collective behaviour.
 
 
