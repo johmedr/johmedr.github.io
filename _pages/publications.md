@@ -10,11 +10,15 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 --- 
 **Tracking slow gain modulation with dynamic causal models.** <br>
 Medrano, J., et al. <br>
-*Manuscript in preparation (2024)*
+*In preparation (2024)*
 
-**Bayesian Spectral Decomposition.** <br>
-Medrano, J., et al. <br>
-*Manuscript in preparation (2024).*
+**A broken duet: multistable dynamics in dyadic exchanges.** <br>
+Medrano, J., Sajid, N. <br>
+*Under review (2024)*
+
+**BSD: a Bayesian framework for parametric models of neural spectra.** <br>
+Medrano, J., Alexander, N., Seymour, R.A., Zeidman, P. <br>
+*Under review (2024).*
 
 **Assessing Time Series Correlation Significance: A Parametric Approach with Application to Physiological Signals.** <br>
 Medrano, J., Kheddar, A., Ramdani, S. <br>
