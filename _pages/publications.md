@@ -12,7 +12,7 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 Medrano, J., et al. <br>
 *In preparation (2024)*
 
-**A broken duet: multistable dynamics in dyadic exchanges.** <br>
+**A broken duet: multistable dynamics in dyadic interactions.** <br>
 Medrano, J., Sajid, N. <br>
 *Under review (2024)* [Preprint](https://arxiv.org/abs/2408.03809)<br>
 Code: [Python](https://github.com/johmedr/dempy)
