@@ -14,7 +14,7 @@ Medrano, J., et al. <br>
 
 **A broken duet: multistable dynamics in dyadic interactions.** <br>
 Medrano, J., Sajid, N. <br>
-*Under review (2024)* [Preprint](https://arxiv.org/abs/2408.03809)<br>
+*In press (2024)* [Preprint](https://arxiv.org/abs/2408.03809)<br>
 Code: [Python](https://github.com/johmedr/dempy)
 
 **BSD: a Bayesian framework for parametric models of neural spectra.** <br>
