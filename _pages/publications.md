@@ -12,14 +12,18 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 Medrano, J., et al. <br>
 *In preparation (2024)*
 
-**A broken duet: multistable dynamics in dyadic interactions.** <br>
-Medrano, J., Sajid, N. <br>
-*In press (2024)* [Preprint](https://arxiv.org/abs/2408.03809)<br>
-Code: [Python](https://github.com/johmedr/dempy)
-
 **BSD: a Bayesian framework for parametric models of neural spectra.** <br>
 Medrano, J., Alexander, N., Seymour, R.A., Zeidman, P. <br>
 *Under review (2024)*
+
+**A broken duet: multistable dynamics in dyadic interactions.** <br>
+Medrano, J., Sajid, N. <br>
+*Entropy (2024)* [DOI: 10.3390/e26090731](https://doi.org/10.3390/e26090731)<br>
+Code: [Python](https://github.com/johmedr/dempy)
+
+**Reverse-engineering artificial life under the free-energy principle** <br>
+Medrano, J.  <br>
+*ALIFE 2024: Proceedings of the 2024 Artificial Life Conference* [DOI: 10.1162/isal_a_00808](https://doi.org/10.1162/isal_a_00808) <br>
 
 **Assessing Time Series Correlation Significance: A Parametric Approach with Application to Physiological Signals.** <br>
 Medrano, J., Kheddar, A., Ramdani, S. <br>
