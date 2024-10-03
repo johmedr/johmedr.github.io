@@ -8,9 +8,14 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=gXiX6XwAAAAJ).
 
 --- 
+
 **Tracking slow gain modulation with dynamic causal models.** <br>
 Medrano, J., et al. <br>
 *In preparation (2024)*
+
+**A theory of generalised coordinates for stochastic differential equations.** <br>
+Da Costa, L., Da Costa, N., Heins, C., Medrano, J., Pavliotis, G.A., Parr, T., Meera, A.A. and Friston, K. <br>
+*Under review (2024)* [Preprint: arXiv:2409.15532](https://arxiv.org/abs/2409.15532)
 
 **BSD: a Bayesian framework for parametric models of neural spectra.** <br>
 Medrano, J., Alexander, N., Seymour, R.A., Zeidman, P. <br>
