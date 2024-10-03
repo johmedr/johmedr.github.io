@@ -15,7 +15,7 @@ Medrano, J., et al. <br>
 
 **A theory of generalised coordinates for stochastic differential equations.** <br>
 Da Costa, L., Da Costa, N., Heins, C., Medrano, J., Pavliotis, G.A., Parr, T., Meera, A.A. and Friston, K. <br>
-*Under review (2024)* [Preprint: arXiv:2409.15532](https://arxiv.org/abs/2409.15532)
+*Under review (2024)* Preprint: [arXiv:2409.15532](https://arxiv.org/abs/2409.15532)
 
 **BSD: a Bayesian framework for parametric models of neural spectra.** <br>
 Medrano, J., Alexander, N., Seymour, R.A., Zeidman, P. <br>
