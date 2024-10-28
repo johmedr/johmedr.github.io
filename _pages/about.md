@@ -10,7 +10,7 @@ redirect_from:
  
 I am a postdoctoral research fellow at the [Functional Imaging Laboratory](fil.ion.ucl.ac.uk) currently working on developping new Bayesian methods for neuroimaging with [Dr. Peter Zeidman](https://peterzeidman.co.uk/), [Prof. Karl Friston](https://www.fil.ion.ucl.ac.uk/~karl/), and the [Memory and Space team](https://www.fil.ion.ucl.ac.uk/team/memory-space-team/) led by [Prof. Eleanor Maguire](https://profiles.ucl.ac.uk/9569-eleanor-maguire). 
 
-Starting January 2024, I will join [Prof. Alan Jasanof laboratory](https://jasanofflab.mit.edu/) at MIT to develop new biophysical models for [molecular fMRI](https://www.sciencedirect.com/science/article/pii/S0959438817302489).   
+Starting January 2024, I will join [Prof. Alan Jasanof laboratory](https://jasanofflab.mit.edu/) at MIT to develop biophysical modelling of [molecular fMRI](https://www.sciencedirect.com/science/article/pii/S0959438817302489) data.   
 
 My long-term goal is to improve our ability to explain complex biological phenomenas. This entails: 
 
