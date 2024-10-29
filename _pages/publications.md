@@ -19,7 +19,7 @@ Da Costa, L., Da Costa, N., Heins, C., Medrano, J., Pavliotis, G.A., Parr, T., M
 
 **BSD: a Bayesian framework for parametric models of neural spectra.** <br>
 Medrano, J., Alexander, N., Seymour, R.A., Zeidman, P. <br>
-*Under review (2024)*
+*Under review (2024)* Preprint: [arXiv:2410.20896](https://arxiv.org/abs/2410.20896)
 
 **A broken duet: multistable dynamics in dyadic interactions.** <br>
 Medrano, J., Sajid, N. <br>
