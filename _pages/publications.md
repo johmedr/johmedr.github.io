@@ -10,8 +10,8 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 --- 
 
 **Tracking slow gain modulation with dynamic causal models.** <br>
-Medrano, J., et al. <br>
-*In preparation (2024)*
+Medrano, J., Friston, K., Zeidman, P. <br>
+*Submitted (2024)* Preprint: [arXiv:2411.16582](https://arxiv.org/pdf/2411.16582)
 
 **A theory of generalised coordinates for stochastic differential equations.** <br>
 Da Costa, L., Da Costa, N., Heins, C., Medrano, J., Pavliotis, G.A., Parr, T., Meera, A.A. and Friston, K. <br>
