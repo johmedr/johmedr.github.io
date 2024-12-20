@@ -28,4 +28,4 @@ I am also involved in the Dynamic Causal Modelling workshop within the MSc Advan
 I did my PhD in the [Interactive Digital Human team](https://www.lirmm.fr/teams-en/idh-en/) at the [LIRMM](https://www.lirmm.fr/), under [Dr. Sofiane Ramdani](https://scholar.google.com/citations?user=sf56cFwAAAAJ) and [Prof. Abderrahmane Kheddar](https://scholar.google.com/citations?user=yd4xmlcAAAAJ). I received my MSc (*Diplôme d'Ingénieur*) in Control Engineering and Electronics from [INSA Toulouse](https://www.insa-toulouse.fr/en/). 
 
 ## Contact
-You can reach me at `johan{dot}medrano{at}ucl.ac.uk`
+You can reach me at `johan.medrano{at}ucl.ac.uk`
