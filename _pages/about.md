@@ -1,13 +1,13 @@
 ---
 permalink: /
 title: "About"
-excerpt: "Researcher developing novel Bayesian methods to elucidate complex biological phenomena."
+excerpt: "Researcher developing Bayesian methods to study functions."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am a Postdoctoral Researcher at the [ICoN Center at MiT](https://yangtan.mit.edu/icon/) and an Honorary Research Fellow at the [Functional Imaging Laboratory](fil.ion.ucl.ac.uk). I work with the [ Jasanoff](https://jasanofflab.mit.edu/) and [Brown](https://www.neurostat.mit.edu/) labs on developing biophysical modelling of molecular fMRI. Previously, I was a Postdoctoral Researcher at the FIL, working with [Prof. Peter Zeidman](https://peterzeidman.co.uk/), [Prof. Karl Friston](https://www.fil.ion.ucl.ac.uk/~karl/), and the Memory and Space team led by [Prof. Eleanor Maguire](https://profiles.ucl.ac.uk/9569-eleanor-maguire). My long-term ambition is to understand how complex biophysical systems can instantiate and maintain behavioural functions. 
+I am a Postdoctoral Researcher at the [ICoN Center at MiT](https://yangtan.mit.edu/icon/) and an Honorary Research Fellow at the [Functional Imaging Laboratory](fil.ion.ucl.ac.uk). I work with the [ Jasanoff](https://jasanofflab.mit.edu/) and [Brown](https://www.neurostat.mit.edu/) labs on developing biophysical modelling of molecular fMRI. Previously, I was a Postdoctoral Researcher at the FIL, working with [Prof. Peter Zeidman](https://peterzeidman.co.uk/), [Prof. Karl Friston](https://www.fil.ion.ucl.ac.uk/~karl/), and the Memory and Space team led by [Prof. Eleanor Maguire](https://profiles.ucl.ac.uk/9569-eleanor-maguire). My long-term ambition is to understand how complex biophysical systems can instantiate and maintain functions. 
 
 ## DCM Workgroup
 
