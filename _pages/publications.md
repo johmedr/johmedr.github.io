@@ -13,13 +13,14 @@ You can also find my articles on [my Google Scholar profile](https://scholar.goo
 Medrano, J., Friston, K., Zeidman, P. <br>
 *Submitted (2024)* Preprint: [arXiv:2411.16582](https://arxiv.org/pdf/2411.16582)
 
-**A theory of generalised coordinates for stochastic differential equations.** <br>
-Da Costa, L., Da Costa, N., Heins, C., Medrano, J., Pavliotis, G.A., Parr, T., Meera, A.A. and Friston, K. <br>
-*Under review (2024)* Preprint: [arXiv:2409.15532](https://arxiv.org/abs/2409.15532)
-
 **BSD: a Bayesian framework for parametric models of neural spectra.** <br>
 Medrano, J., Alexander, N., Seymour, R.A., Zeidman, P. <br>
-*Under review (2024)* Preprint: [arXiv:2410.20896](https://arxiv.org/abs/2410.20896)
+*European Journal of Neuroscience (2025)* [DOI: 10.1111/ejn.70149](https://doi.org/10.1111/ejn.70149)
+
+**A theory of generalised coordinates for stochastic differential equations.** <br>
+Da Costa, L., Da Costa, N., Heins, C., Medrano, J., Pavliotis, G.A., Parr, T., Meera, A.A. and Friston, K. <br>
+*Studies in Applied Mathematics (2025)* [DOI: 10.1111/sapm.70062](https://doi.org/10.1111/sapm.70062) <br>
+Code: [Python](https://github.com/johmedr/dempy)
 
 **A broken duet: multistable dynamics in dyadic interactions.** <br>
 Medrano, J., Sajid, N. <br>
