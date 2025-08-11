@@ -8,6 +8,13 @@ author_profile: true
 You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=gXiX6XwAAAAJ).
 
 --- 
+**Dissociating model architectures from inference computations.** <br>
+Sajid, N., Medrano, J. <br>
+*Cognitive Neuroscience (2025)* [DOI: 10.1080/17588928.2025.2532604](https://doi.org/10.1080/17588928.2025.2532604)
+
+**SPM 25: open source neuroimaging analysis software.** <br>
+Tierney, T., et al. <br> 
+*Journal of Open Source Software (2025)* [DOI: 10.21105/joss.08103](https://doi.org/10.21105/joss.08103)
 
 **Tracking slow gain modulation with dynamic causal models.** <br>
 Medrano, J., Friston, K., Zeidman, P. <br>
