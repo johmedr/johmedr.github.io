@@ -11,7 +11,7 @@ I am a Postdoctoral Researcher at the [ICoN Center at MiT](https://yangtan.mit.e
 
 ## DCM Workgroup
 
-I chair weekly meetings that gather researchers interested in applying [Dynamic Causal Modelling](https://en.wikipedia.org/wiki/Dynamic_causal_modeling) to study complex phenomenas that arise in their fields. These meetings aim at providing support to researchers trying to extend DCM to their field and at identifying the need for new method development. 
+I chair weekly meetings that gather researchers interested in applying [Dynamic Causal Modelling](https://en.wikipedia.org/wiki/Dynamic_causal_modeling) to study complex phenomenas that arise in their fields. The goal of these meetings is to provide support to researchers trying to extend DCM and identify the need for new method development. 
 
 _Feel free to reach out if you are interested in attending these meetings!_
 
